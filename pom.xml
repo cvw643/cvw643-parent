@@ -21,7 +21,7 @@
         <project.build.resourceEncoding>UTF-8</project.build.resourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <!-- Version-->
-        <springfox.version>2.9.2</springfox.version>
+        <springfox.version>2.10.0</springfox.version>
         <spring-boot.version>2.2.1.RELEASE</spring-boot.version>
         <spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
     </properties>
